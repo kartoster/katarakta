@@ -1,4 +1,6 @@
-# katarakta
+# kartoster's katarakta
+My own fork for vazhka-dolya's katarakta.
+
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/vazhka-dolya/katarakta/total?style=plastic&label=total%20downloads&color=0260A4">
 katarakta is a tool made for Super Mario 64 machinimas that enables you to change Mario's textures quicker and makes it a lot less tedious.
 <p align="center">
